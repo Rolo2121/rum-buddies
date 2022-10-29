@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	color: #39ab32;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header {
+	color: #39ab32;
+	background-color: #39ab32;
+	padding: 10px 15px 20px 25px;
+}
+header h1 {
+	font-weight: bold;
+	font-size: 36px;
+	color: #da2048;
+	margin: 0;
+	display: inline;
+}
+header a {
+	text-decoration: wavy;
+	color: #5719e9;
+}
+header nav {
+	float: right;
+	margin: 7px 0;
+}
+header nav ul li {
+	display: inline;
+}
+header nav ul li a {
+	margin: 0 30px;
+	font-weight: bolder;
+	font-size: 22px;
+}
